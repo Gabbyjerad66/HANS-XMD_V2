@@ -10,28 +10,28 @@ require('dotenv').config()
 
 //contact details - sensitive info moved to .env
 global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.ownernomer = process.env.OWNER_NUMBER || "254112842772"
 
-global.ownername = process.env.OWNER_NAME || "HansTech"
+global.ownername = process.env.OWNER_NAME || "Gabby"
 
-global.ytname = "HANSTZ-TECH"
+global.ytname = "gabby"
 
 global.socialm = "GitHub: Mrhanstz"
 
-global.location = "AFRICA, TANZANIA, DODOMA"
+global.location = "AFRICA,KENYA, mombasa"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '254112842772'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownername = process.env.OWNER_NAME || 'Gabby' //owner name
+global.botname = 'Gabby-XMD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = 'Gabby-XMD'
 
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "HANS BOT"
+global.wm = "gabby BOT"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
